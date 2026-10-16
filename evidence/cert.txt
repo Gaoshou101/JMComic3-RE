@@ -1,0 +1,21 @@
+������: CN=tseng, OU=develop, O=develop, L=tw, ST=tw, C=tw
+������: CN=tseng, OU=develop, O=develop, L=tw, ST=tw, C=tw
+���к�: 520e20cf43b88b80
+��Чʱ��: Mon Jun 09 12:23:31 CST 2025, ʧЧʱ��: Fri Oct 25 12:23:31 CST 2052
+֤��ָ��:
+	 SHA1: A0:00:61:5A:64:20:F9:78:CA:C1:33:FE:2E:4B:D4:02:05:7D:37:0C
+	 SHA256: 88:29:41:55:C8:FC:E4:54:61:28:3E:CB:C1:5B:5D:C2:B9:39:94:31:23:53:67:D4:D6:48:E6:FE:F2:72:D4:6A
+ǩ���㷨����: SHA384withRSA
+���幫����Կ�㷨: 2048 λ RSA ��Կ
+�汾: 3
+
+��չ: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 3C 67 FD EF 81 96 EE 05   82 A2 75 C4 39 20 64 E8  <g........u.9 d.
+0010: 7A FA 2F E2                                        z./.
+]
+]
+

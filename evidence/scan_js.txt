@@ -1,0 +1,190 @@
+JS文件总数=65
+
+=== 文件统计（按大小降序） ===
+work/extract/assets/public/static/js/main.9a45a3ff.js size=794500 urls=22 apis=0 srcApk=0 clarity=0 versions=["0.0.0","3.10.1","18.3.1","7.1.1"] crypto=65 hits=token,aes,decrypt,authorization,bearer,base64,encrypt,md5,sha256
+work/extract/assets/public/static/js/7761.1932c1a9.chunk.js size=517325 urls=2 apis=0 srcApk=0 clarity=0 versions=[] crypto=54 hits=decrypt,aes,encrypt,base64,token
+work/extract/assets/public/static/js/355.a49c914f.chunk.js size=310767 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=271 hits=base64,aes,decrypt,encrypt,privatekey,publickey,rsa,md5,sha256,secret
+work/extract/assets/public/static/js/4694.ab5b411a.chunk.js size=125501 urls=0 apis=0 srcApk=0 clarity=0 versions=["12.4.7"] crypto=0 hits=
+work/extract/assets/public/static/js/3626.7b881acc.chunk.js size=112908 urls=2 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/9282.12087ced.chunk.js size=109758 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/1283.8e4cb1b4.chunk.js size=72078 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/cordova.js size=52024 urls=3 apis=0 srcApk=0 clarity=0 versions=[] crypto=10 hits=base64
+work/extract/assets/public/static/js/9907.73996f84.chunk.js size=46119 urls=31 apis=3 srcApk=0 clarity=0 versions=["2.1.11"] crypto=0 hits=
+work/extract/assets/public/static/js/5840.e3cd4ea2.chunk.js size=39553 urls=1 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/9058.28d51f0d.chunk.js size=37671 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/7152.91759535.chunk.js size=36595 urls=4 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/6048.a6c3e83a.chunk.js size=32953 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=7 hits=rsa,sha256
+work/extract/assets/public/static/js/6931.d68c6e2b.chunk.js size=31029 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/3464.6f13c894.chunk.js size=30095 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/1894.d14d53a4.chunk.js size=28812 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/9634.46dba0d8.chunk.js size=27839 urls=1 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/2108.c27ec153.chunk.js size=27498 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/5374.25a2cc2d.chunk.js size=27146 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/8625.886a9c10.chunk.js size=26930 urls=1 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/1209.ea60849b.chunk.js size=25395 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/9120.c55b6974.chunk.js size=22997 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/7044.34d24731.chunk.js size=22981 urls=2 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/8445.141158f7.chunk.js size=22382 urls=1 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/5507.f681e7bb.chunk.js size=22163 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/7522.e48de9ca.chunk.js size=20460 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/21.602f66b3.chunk.js size=20395 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/7521.954d9567.chunk.js size=20300 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/427.8205ce3c.chunk.js size=18324 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/3665.dc731682.chunk.js size=18120 urls=4 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/3728.373fcb99.chunk.js size=17794 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/5116.4f0b4c65.chunk.js size=17633 urls=4 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/9206.91847e27.chunk.js size=17369 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/3224.17ad2d66.chunk.js size=15353 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/5745.aaee008f.chunk.js size=14980 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/6695.c978d81b.chunk.js size=14737 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/5360.682382d7.chunk.js size=14608 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/874.6ba767c8.chunk.js size=14050 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/3704.da20ad21.chunk.js size=13823 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/3599.f88d874f.chunk.js size=13410 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/4343.0de80cf7.chunk.js size=12456 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/1795.24f4b74b.chunk.js size=11999 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/6120.cc85e9ce.chunk.js size=11805 urls=1 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/8184.d8baf1b8.chunk.js size=11326 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/9546.85e85fa9.chunk.js size=10820 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/7439.fe8332ca.chunk.js size=10763 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/2106.b1054299.chunk.js size=10645 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/5691.ae8c9558.chunk.js size=10247 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/7392.fe213e6c.chunk.js size=10111 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/1781.0f34586e.chunk.js size=10057 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/6125.c84977f0.chunk.js size=9962 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/457.1eefd27d.chunk.js size=9024 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=2 hits=base64
+work/extract/assets/public/static/js/6811.ea05bbfb.chunk.js size=8208 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/5124.5f7febe1.chunk.js size=8171 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/9236.6a2f8381.chunk.js size=8168 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/6659.28d71b2f.chunk.js size=7521 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/2.01fee913.chunk.js size=7376 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/5178.cc956232.chunk.js size=6819 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/1155.81404506.chunk.js size=5147 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/service-worker.js size=2366 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/828.3b37d3b5.chunk.js size=1406 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/plugins/cordova-plugin-volume-control/www/VolumeControl.js size=1067 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/6551.3782c8a2.chunk.js size=824 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/static/js/8382.94b2d743.chunk.js size=696 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+work/extract/assets/public/cordova_plugins.js size=549 urls=0 apis=0 srcApk=0 clarity=0 versions=[] crypto=0 hits=
+
+=== 全部域名（含端口，去重） ===
+www.apache.org
+jsperf.com
+issues.apache.org
+api4.ipify.org?format=json
+ipwho.is
+google.com
+trello.com
+jm365.work
+discord.gg
+discord.com
+payment.gcomicloveu.org
+aomedia.org
+www.w3.org
+fb.me
+rup4a04-c02.tos-cn-hongkong.bytepluses.com
+rup4a04-c01.tos-ap-southeast-1.bytepluses.com
+rup4a04-c03.tos-cn-beijing.bytepluses.com.cn
+18comic.vip
+www.facebook.com
+graph.facebook.com
+b.hatena.ne.jp
+bookmark.hatenaapis.com
+www.instapaper.com
+social-plugins.line.me
+linkedin.com
+www.livejournal.com
+connect.mail.ru
+connect.ok.ru
+pinterest.com
+api.pinterest.com
+getpocket.com
+www.reddit.com
+gab.com
+telegram.me
+www.tumblr.com
+api.tumblr.com
+twitter.com
+vk.com
+service.weibo.com
+work.facebook.com
+mui.com
+stuk.github.io
+reactjs.org
+www.googletagmanager.com
+bit.ly
+redux-toolkit.js.org
+reactrouter.com
+remix.run
+github.com
+redux.js.org
+
+=== 全部完整 URL（去重，上限500，共 63） ===
+http://www.apache.org/licenses/LICENSE-2.0
+http://jsperf.com/b64tests
+https://issues.apache.org/jira/browse/CB-11522
+https://api4.ipify.org?format=json
+https://ipwho.is/
+http://google.com
+https://trello.com/b/McDZAm8C/
+https://jm365.work/AwNzE2
+https://discord.gg/V74p7HM\n#\u7db2\u7ad9\u8207app\u554f\u984c\u56de\u5831\n\n\u5373\u5c07\u8df3\u8f49\u56de\u9996\u9801
+https://
+https://discord.com/invite/V74p7HM
+https://payment.gcomicloveu.org/payments/order/6aa86c8520484331b19d9e7dfd1078cb
+https://aomedia.org/emsg/ID3
+http://www.w3.org/ns/ttml#styling
+http://
+http://fb.me/use-check-prop-types
+https://rup4a04-c02.tos-cn-hongkong.bytepluses.com/newsvr-2025.txt
+https://rup4a04-c01.tos-ap-southeast-1.bytepluses.com/newsvr-2025.txt
+https://rup4a04-c03.tos-cn-beijing.bytepluses.com.cn/newsvr-2025.txt
+https://18comic.vip/
+https://www.facebook.com/dialog/send
+https://www.facebook.com/sharer/sharer.php
+https://graph.facebook.com/?id=
+http://b.hatena.ne.jp/add?mode=confirm&url=
+https://bookmark.hatenaapis.com/count/entry
+http://www.instapaper.com/hello2
+https://social-plugins.line.me/lineit/share
+https://linkedin.com/shareArticle
+https://www.livejournal.com/update.bml
+https://connect.mail.ru/share
+https://connect.ok.ru/offer
+https://connect.ok.ru/dk
+https://pinterest.com/pin/
+https://pinterest.com/pin/create/button/
+https://api.pinterest.com/v1/urls/count.json
+https://getpocket.com/save
+https://www.reddit.com/submit
+https://gab.com/compose
+https://www.reddit.com/api/info.json?limit=1&url=
+https://telegram.me/share/url
+https://www.tumblr.com/widgets/share/tool
+https://api.tumblr.com/v2/share/stats
+https://twitter.com/intent/tweet
+https://vk.com/share.php
+http://service.weibo.com/share/share.php
+https://work.facebook.com/sharer.php
+https://discord.gg/V74p7HM\n#\u7db2\u7ad9\u8207app\u554f\u984c\u56de\u5831\n\n
+https://mui.com/production-error/?code=
+https://stuk.github.io/jszip/documentation/howto/read_zip.html
+https://reactjs.org/docs/error-decoder.html?invariant=
+http://www.w3.org/1999/xlink
+http://www.w3.org/XML/1998/namespace
+http://www.w3.org/2000/svg
+http://www.w3.org/1998/Math/MathML
+http://www.w3.org/1999/xhtml
+https://www.googletagmanager.com/gtag/js
+https://bit.ly/3cXEKWf
+https://redux-toolkit.js.org/Errors?code=
+https://reactrouter.com/en/main/routers/picking-a-router.
+https://remix.run/guides/errors
+https://github.com/ungap/url-search-params.
+https://redux.js.org/Errors?code=
+https://discord.gg/V74p7HM
+
+=== API/路径（去重，上限500，共 3） ===
+/v1/urls/count.json
+/api/info.json?limit=1&url=
+/v2/share/stats

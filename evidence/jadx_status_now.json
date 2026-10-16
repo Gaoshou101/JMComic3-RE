@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "result": {
+    "content": [
+      {
+        "text": "{\"state\":\"LOADED\",\"apk_path\":\"work\\\\JMComic3v2.1.11.apk\",\"class_count\":1232,\"raw_class_count\":1232,\"resource_count\":657,\"load_duration_ms\":1896,\"loaded_at_epoch_ms\":1792136405003,\"decompile_timeout_ms\":90000,\"threads\":4,\"code_cache_size\":64,\"resources\":\"full\"}",
+        "type": "text"
+      }
+    ]
+  },
+  "jsonrpc": "2.0"
+}

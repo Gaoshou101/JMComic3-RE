@@ -1,0 +1,7 @@
+# 构建/临时产物
+work/
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+

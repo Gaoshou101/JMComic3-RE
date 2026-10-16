@@ -1,6 +1,7 @@
 # JMComic3 v2.1.11 — APK 逆向工程仓库
 
-本项目托管对 `JMComic3v2.1.11.apk` 的完整静态逆向结果：分析报告、APK 解包产物、以及全部原始扫描证据。
+本项目托管对 `JMComic3v2.1.11.apk` 的完整静态逆向结果：分析报告、APK 解包产物、
+jadx 反编译 Java 源码树、以及全部原始扫描证据。
 样本为本地 fixture，仅用于技术研究与兼容性分析。
 
 ## 1. 关键标识
@@ -23,6 +24,13 @@
 │   └── JMComic3v2.1.11_reverse_engineering_report.md   完整分析报告（中文）
 ├── apk/
 │   └── JMComic3v2.1.11.apk          原始样本（SHA-256 见上）
+├── jadx-src/                        jadx 1.5.3 反编译 Java 源码树（1232 个 .java）
+│   ├── com/a7m3p9xv/t6qk2z8/app/    应用自有代码：MainActivity.java、R.java
+│   ├── com/capacitorjs/             Capacitor 插件（app / filesystem / preferences）
+│   ├── com/getcapacitor/            Capacitor 运行时（桥接、Cordova 兼容）
+│   ├── com/lorentech/               Cordova 卷控插件
+│   ├── androidx/  kotlin/  org/     第三方库
+│   └── A/ a0/ B/ b0/ ...            混淆后的包（单/双字母顶层包）
 ├── unpacked/                        APK 解包产物（657 文件）
 │   ├── AndroidManifest.xml          清单
 │   ├── classes.dex                  唯一 DEX（1,013,284 B, dex\n035）
@@ -75,14 +83,23 @@ node evidence/scan_js.mjs unpacked/assets/public   # 重跑 JS 端点扫描
 node evidence/scan_dex.mjs unpacked/classes.dex    # 重跑 DEX 扫描
 ```
 
+重新生成 Java 源码树：
+
+```bash
+java -cp jadx-1.5.3-all.jar jadx.cli.JadxCLI -d jadx-out --no-res apk/JMComic3v2.1.11.apk
+```
+
 ## 5. 复现工具链
 
-- jadx (headless-mcp 0.7.1) — 清单与代码结构解析
-- apktool — 资源/manifest 解码
-- keytool (JDK 17) — 证书解析
-- Node.js — 自定义 DEX/JS 字符串与正则扫描
+| 工具 | 版本 | 用途 |
+| --- | --- | --- |
+| jadx | 1.5.3 (`jadx-1.5.3-all.jar`) | Java 源码树反编译、清单/结构解析 |
+| apktool | — | 资源/manifest 解码 |
+| keytool (JDK) | 17 | 证书解析 |
+| Node.js | — | 自定义 DEX/JS 字符串与正则扫描 |
 
 ## 6. 范围与限制
 
 - 本仓库为**静态**分析结果；动态行为（实际网络请求、桥接调用、下发内容）未做验证。
+- `jadx-src/` 为反编译产物，混淆包名（`A/`、`a0/` 等）非原始工程结构；部分方法存在恢复失败标记。
 - 未完成项：JS bridge 白名单、`newsvr` 下发内容、支付参数签名方案、硬编码密钥确认。
